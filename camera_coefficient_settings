@@ -1,0 +1,6 @@
+m2t07_Cam1_Cine1.cine = coefs column 1 [rear #1]
+m2t07_Cam2_Cine1.cine = coefs column 2 [rear #2]
+m2t07_Cam3_Cine1.cine = coefs column 3 [overhead #1]
+Y4Camera1.mrf = coefs column 4 [lateral #1]
+Y4Camera2.mrf = coefs column 5 [lateral #2]
+Y4Camera3.mrf = coefs column 6 [overhead #2]
